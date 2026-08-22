@@ -27,7 +27,7 @@ Nuestro proyecto se alinea directamente con los siguientes Objetivos de Desarrol
 
 | Foto | Nombre | Rol | Interés |
 | :---: | :--- | :--- | :--- |
-| <img src="Imagenes/Joana.jpg" width="80"> | **Joana Ayvar** | *Líder / Investigador* | *Biomecánica* |
+| <img src="https://s5.ezgif.com/tmp/ezgif-5dd0d7bb7b2167e9.webp" width="80"> | **Joana Ayvar** | *Líder / Investigador* | *Biomecánica* |
 | ![Adriano](url_o_ruta_de_foto) | **Adriano Bartens** | *Programador* | *IoT y Sensores* |
 | ![Matías](url_o_ruta_de_foto) | **Matías Giraldo** | *Diseñador* | *Procesamiento de señales* |
 | <img src="Imagenes/Sofia.jpg" width="80"> | **Sofia Vallejos** | *Documentación* | *Impacto social* |
