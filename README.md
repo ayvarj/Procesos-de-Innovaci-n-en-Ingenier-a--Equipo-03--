@@ -27,10 +27,10 @@ Nuestro proyecto se alinea directamente con los siguientes Objetivos de Desarrol
 
 | Foto | Nombre | Rol | Interés |
 | :---: | :--- | :--- | :--- |
-| <img src="https://s5.ezgif.com/tmp/ezgif-5dd0d7bb7b2167e9.webp" width="80"> | **Joana Ayvar** | *Líder / Investigador* | *Biomecánica* |
-| <img src="https://s3.ezgif.com/tmp/ezgif-3371d8502139cdb4.webp" width="80">| **Adriano Bartens** | *Programador* | *IoT y Sensores* |
-| <img src="https://s3.ezgif.com/tmp/ezgif-3df9ec3ab6f81f6e.jpg" width="80"> | **Matías Giraldo** | *Diseñador* | *Procesamiento de señales* |
-| <img src="https://s3.ezgif.com/tmp/ezgif-30cd5f7e5ae3395d.jpg" width="80"> | **Sofia Vallejos** | *Documentación* | *Impacto social* |
+| <img src="https://cdn.phototourl.com/free/2026-08-26-2274679f-751c-4621-9412-87b2a04422e2.jpg" width="80"> | **Joana Ayvar** | *Líder / Investigador* | *Biomecánica* |
+| <img src="https://cdn.phototourl.com/free/2026-08-26-d9a9e192-65c9-4bdb-9a78-3a7a077d9509.jpg" width="80">| **Adriano Torres** | *Programador* | *IoT y Sensores* |
+| <img src="https://cdn.phototourl.com/free/2026-08-26-fe201096-bbda-4fc0-b102-0bdf3296811a.jpg" width="80"> | **Matías Giraldo** | *Diseñador* | *Procesamiento de señales* |
+| <img src="https://cdn.phototourl.com/free/2026-08-26-632a33c8-8cc7-4183-801a-7702237ab063.jpg" width="80"> | **Sofia Vallejos** | *Documentación* | *Impacto social* |
 
 ---
 
