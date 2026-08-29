@@ -19,8 +19,6 @@ Nuestro proyecto se alinea directamente con los siguientes Objetivos de Desarrol
     Buscamos contribuir al mejoramiento del diagnóstico y monitoreo de la salud mediante el desarrollo de soluciones tecnológicas biomédicas (como el análisis de señales de ECG).
 *   **⚙️ ODS 9: Industria, Innovación e Infraestructura**  
     Aplicamos metodologías de innovación en ingeniería para fomentar el desarrollo de nuevas tecnologías y soluciones que impulsen el progreso científico en el sector salud.
-*   **⚖️ ODS 10: Reducción de las Desigualdades** *(Opcional: bórralo si no aplica)*  
-    Aspiramos a que nuestras soluciones sean accesibles y puedan tener un impacto social positivo, reduciendo la brecha tecnológica en el ámbito de la salud.
 ---
 
 ## 👥 Integrantes del Equipo
