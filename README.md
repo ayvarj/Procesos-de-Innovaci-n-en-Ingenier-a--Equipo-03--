@@ -29,7 +29,7 @@ Nuestro proyecto se alinea directamente con los siguientes Objetivos de Desarrol
 | <img src="https://cdn.phototourl.com/free/2026-08-29-f7f13c87-4f28-491f-b726-8872d0bd0c05.png" width="80">| **Adriano Torres** | *Programador* | *IoT y Sensores* |
 | <img src="https://cdn.phototourl.com/free/2026-08-26-fe201096-bbda-4fc0-b102-0bdf3296811a.jpg" width="80"> | **Matías Giraldo** | *Diseñador* | *Procesamiento de señales* |
 | <img src="https://cdn.phototourl.com/free/2026-08-26-632a33c8-8cc7-4183-801a-7702237ab063.jpg" width="80"> | **Sofia Vallejos** | *Documentación* | *Impacto social* |
-| <img width="227" height="272" alt="WhatsApp Image 2026-08-31 at 10 35 56 PM (1)" src="https://github.com/user-attachments/assets/77974fa6-a4b2-4cdb-a7b1-3b0829a9f2a8" width="80"> | **Isaid Villegas** | ** | *biomecatronico* |
+| <img width="80" height="80" alt="WhatsApp Image 2026-08-31 at 10 35 56 PM (1)" src="https://github.com/user-attachments/assets/77974fa6-a4b2-4cdb-a7b1-3b0829a9f2a8" > | **Isaid Villegas** | ** | *biomecatronico* |
 ---
 
 ## 📝 Resumen
